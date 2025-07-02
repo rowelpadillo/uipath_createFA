@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZoiSH61Pk0mMrt1kZzL6iA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" CVScreenId="46640267-e0a0-4428-85d4-0cafe3a7685f" CvTextArea="1656, 993, 183, 15" CvTextArgument="Go To Group Premise FAs" CvType="Text" DesignTimeRectangle="1655, 989, 249, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl name='main' tag='FRAME' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;webctrl id='dashboard' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='context' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aria-role='menuitem' type='' tag='TD' class='' aaname='Go To Group Premise FAs' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Go To Group Premise FAs' /&gt;" Guid="20dca55b-0b3d-4fa4-9ddd-b81fbb708eaf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Control Central' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="dae4117894a856144b85d01645676a27.png" xmlns="">02urZY_IhSkKtGknFfpy47w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

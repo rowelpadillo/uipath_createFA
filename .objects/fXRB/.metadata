@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Control Central",
+  "Type": "App",
+  "Id": "fXRBXoq3eki768SW-rFpkA",
+  "Reference": "Fqb-kCnnpEK32JQFRYXkIw/fXRBXoq3eki768SW-rFpkA",
+  "Created": "2025-06-05T00:39:14.1560045Z",
+  "Updated": "2025-06-05T00:39:14.1560045Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

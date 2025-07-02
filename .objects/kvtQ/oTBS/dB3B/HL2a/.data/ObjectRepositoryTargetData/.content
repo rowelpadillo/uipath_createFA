@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ATebBr1u40WkkPU5Zmj0DA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" CVScreenId="360a0309-ca2d-44f2-9a90-1b6b4f591e4c" CvElementArea="229, 476, 113, 32" CvType="InputBox" DesignTimeRectangle="232, 478, 109, 29" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='text' class='uiMargin data forms dc-CHAR-NONE-8-0' tag='INPUT' aaname='Activity Type' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="227039e4-712c-426a-8d10-50c7d871b03f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Field Activity' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="360a0309-ca2d-44f2-9a90-1b6b4f591e4c" CvTextArea="48, 486, 96, 18" CvTextArgument="Activity Type" CvType="Text" DesignTimeRectangle="50, 484, 104, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' tag='LABEL' aaname='Activity Type' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Activity Type' /&gt;" Guid="0fe884c9-1dcc-4542-8321-b9b6211ef03a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0c577596c51323cc38aeba416c8c0308.png" xmlns="">0U1TYcTQdT0SdZtVruCvJmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

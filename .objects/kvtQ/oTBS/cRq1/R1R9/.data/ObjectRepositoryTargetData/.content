@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kYo8Ef9-tkmHk6pojisazQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" CVScreenId="56774e45-c094-428e-87e2-4c305c1a1cb9" CvTextArea="1650, 1112, 186, 16" CvTextArgument="Go To Group Premise FAs" CvType="Text" DesignTimeRectangle="1649, 1107, 248, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='contextMenuTable' tag='TABLE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl type='' class='' tag='TD' aaname='Go To Group Premise FAs' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Go To Group Premise FAs' /&gt;" Guid="9282ba93-bc1b-4727-b27e-abd07897508a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Field Activity' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1618, 1107, 31, 28" ElementType="Cell" FullSelectorArgument="&lt;webctrl parentid='contextMenuTable' tableCol='1' tableRow='15' tag='TABLE' /&gt;&lt;webctrl tableCol='1' tableRow='1' tag='TD' /&gt;" Guid="4e9d112c-d01a-4691-b037-3c812b1d0ba8" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="21f2474808eb713645c478ba6793611d.png" xmlns="">0Y9s0EqiRQk-EZwoMJ64lYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

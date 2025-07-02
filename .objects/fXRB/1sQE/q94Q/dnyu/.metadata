@@ -1,0 +1,14 @@
+﻿{
+  "Name": "IMG IM_FA_TYPE_CD",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "dnyusyb0hUOYo9I9mVLkuA",
+  "Reference": "Fqb-kCnnpEK32JQFRYXkIw/dnyusyb0hUOYo9I9mVLkuA",
+  "ParentRef": "Fqb-kCnnpEK32JQFRYXkIw/q94Qm_qBoEmyT0PoMv1EPw",
+  "Created": "2025-06-05T00:47:27.8057182Z",
+  "Updated": "2025-06-05T00:47:27.8057182Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

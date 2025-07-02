@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a7HJbIyjZU6jPfp6p8Jmfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" CVScreenId="3e65dd16-ad5d-45e8-ae6d-152c1b1c61a3" CvTextArea="1650, 909, 106, 16" CvTextArgument="Go To Premise" CvType="Text" DesignTimeRectangle="1649, 904, 248, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-role='presentation' parentid='contextMenuTable' tag='TABLE' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl type='' class='' tag='TD' aaname='Go To Premise' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Go To Premise' /&gt;" Guid="0de80aae-3954-4951-af91-51ee62b762a9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Field Order' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3e65dd16-ad5d-45e8-ae6d-152c1b1c61a3" CvTextArea="1650, 1112, 184, 16" CvTextArgument="Go To Group Premise FAs" CvType="Text" DesignTimeRectangle="1649, 1107, 248, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='contextMenuTable' tag='TABLE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl type='' class='' tag='TD' aaname='Go To Group Premise FAs' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Go To Group Premise FAs' /&gt;" Guid="3b24df84-37d9-4cb3-b329-3a1ff6becd85" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="73a7376ee9ae657c530122b0777c5b64.png" xmlns="">0dUNE9b_fS0Wv6ZcwaJUJsQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

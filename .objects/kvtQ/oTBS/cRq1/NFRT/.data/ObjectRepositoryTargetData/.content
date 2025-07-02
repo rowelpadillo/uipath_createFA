@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IhbfNOAGIEuGcGWxcsNYig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" CVScreenId="56774e45-c094-428e-87e2-4c305c1a1cb9" CvTextArea="1650, 1112, 186, 16" CvTextArgument="Go To Group Premise FAs" CvType="Text" DesignTimeRectangle="1649, 1107, 248, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='contextMenuTable' tag='TABLE' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl type='' class='' tag='TD' aaname='Go To Group Premise FAs' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Go To Group Premise FAs' /&gt;" Guid="9ac1facf-258a-4da1-aafd-011ed0af1fb6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Field Activity' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="fefa250fe8222f8aa860735c1b280924.png" xmlns="">0YBJYXNEutkuEo63rX6ueEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

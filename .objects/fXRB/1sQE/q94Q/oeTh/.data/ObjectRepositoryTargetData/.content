@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QBX_o5DiF02Y4S_3lrBKTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" DesignTimeRectangle="1607, 814, 32, 27" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='data_204' tableCol='1' tableRow='3' tag='IMG' /&gt;" Guid="66d2b625-15cf-47f2-a86f-7fb59711fd39" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Control Central' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="213f600a9f2700ce2fdeb6cc73f2325d.png" xmlns="">0zqC7G6aGV0uCptwqLzSEAA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ClickTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

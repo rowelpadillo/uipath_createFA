@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Control Central",
+  "Type": "Screen",
+  "Id": "q94Qm_qBoEmyT0PoMv1EPw",
+  "Reference": "Fqb-kCnnpEK32JQFRYXkIw/q94Qm_qBoEmyT0PoMv1EPw",
+  "ParentRef": "Fqb-kCnnpEK32JQFRYXkIw/1sQEzuL1IECB7yEcm_OpqA",
+  "Created": "2025-06-05T00:39:14.1800822Z",
+  "Updated": "2025-06-05T00:39:14.1800822Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

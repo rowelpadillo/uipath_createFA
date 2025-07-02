@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Field Activity",
+  "Type": "App",
+  "Id": "kvtQSPXas0ecXFwzn0mWgg",
+  "Reference": "Fqb-kCnnpEK32JQFRYXkIw/kvtQSPXas0ecXFwzn0mWgg",
+  "Created": "2025-06-05T00:50:48.2983166Z",
+  "Updated": "2025-06-05T00:50:48.2983166Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

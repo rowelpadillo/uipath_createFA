@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Field Activity",
+  "Type": "Screen",
+  "Id": "dB3BPW3-e02J1eDzHZhtsA",
+  "Reference": "Fqb-kCnnpEK32JQFRYXkIw/dB3BPW3-e02J1eDzHZhtsA",
+  "ParentRef": "Fqb-kCnnpEK32JQFRYXkIw/oTBSI13fz0ma15s6LoAxvA",
+  "Created": "2025-06-05T00:50:48.3212953Z",
+  "Updated": "2025-06-05T00:50:48.3212953Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

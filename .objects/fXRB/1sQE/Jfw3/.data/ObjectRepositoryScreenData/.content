@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="36W_tkbUPk6cq7WX9D0ktg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1150" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAABbSURBVDhPzYwLCgAhCAW9/6XN2MSnbT8KamCg6DXERLzji4ERYW+BVVwA0WBLRO4+gMOeipwtgIMZy5+DgQwOeipy9oEMDv9E5P4F4sMM5Z8F1BFhXwcWvR0gTjvxfZ98nxlrAAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Control Central' /&gt;" Url="http://10.110.147.244:6500/ouaf/cis.jsp" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="614d4d4b6383cfab2ba2312664d9f7be.jpg" xmlns="">0roZyHAFfxk2sCNXoLmn_zQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

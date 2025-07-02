@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YKc_t430d0-yMzBQD-Sigg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/loginPage.jsp" CVScreenId="b8761a57-5177-446f-8f74-5ccf2d9c24cf" CvElementArea="812, 561, 277, 30" CvType="InputBox" DesignTimeRectangle="816, 564, 273, 26" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl type='password' class='loginField' tag='INPUT' aaname='Password' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3990ef5f-5ea6-4764-8715-b4f82a14c3b1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Login' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b8761a57-5177-446f-8f74-5ccf2d9c24cf" CvTextArea="726, 567, 79, 15" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="729, 567, 78, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' tag='LABEL' aaname='Password' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Password' /&gt;" Guid="33096863-9ed9-415d-a549-a6ef5105221c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f1c5bfc9cf89e1b4db0d8f9b926e4ebd.png" xmlns="">00UGtgLtby0KdH8ppTmJV-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

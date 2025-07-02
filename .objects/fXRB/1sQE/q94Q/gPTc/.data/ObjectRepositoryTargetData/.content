@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aVVRg6LASUq6gBSseDspGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" CVScreenId="8a05c6a5-faa1-4154-9b6d-816d7fdacb7b" CvElementArea="1602, 999, 29, 29" CvType="Icon" DesignTimeRectangle="1604, 1003, 23, 22" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='contextMenuItem5x1' type='' class='' tag='IMG' aaname='Add Field Activity' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="7bb2b813-8452-4e8e-91c7-5f98a56fb603" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABsAAAAaCAYAAABGiCfwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAEQSURBVEhLY3j69Pl/euGBs4za4Oa1E/83rOrBbdmPHz//f/78hSr48oXD+C37+PETnI+O79x58f/EqVf/j5+EYBAbJIZNLQifPrGbfMs2bH7738z+538j619gDGKDxLCpBWGKLFu49N1/VsF//xl4/oMxiA0Sw6YWhEctw4ppYtnjx5CUdxsNz5r3HsMykBi6OpBekBlEWXb0+Kv/EfHf/rv5/UDBhla//jPxQSwCYRAbJIauDqQXZAZRlm3b8ea/lOofuKGkYpBekBkj3DK6xhldUyOyGDIG5Sl0y0Bi2NSC8KhlWDFdLaNrfQZKZVStqR8/vPX/1PEdVMF7dy7Gb9m1y5BGCjUxVstoi5//BwCGuintCtBsegAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Control Central' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8a05c6a5-faa1-4154-9b6d-816d7fdacb7b" CvTextArea="1634, 1005, 145, 18" CvTextArgument="Go To Field Activity" CvType="Text" DesignTimeRectangle="1633, 998, 262, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-role='presentation' parentid='contextMenuTable' tag='TABLE' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl type='' class='' tag='TD' aaname='Go To Field Activity' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Go To Field Activity' /&gt;" Guid="1ac6ffb8-4384-42e3-ad4e-56d39bdc463f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d2f866c3f597b61f4a8859831705866e.png" xmlns="">0CVcdCl4QVk2U0pu-8kErjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

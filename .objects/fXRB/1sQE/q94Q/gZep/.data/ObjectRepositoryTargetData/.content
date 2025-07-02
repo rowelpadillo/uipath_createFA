@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SkFwOutl_EeO4uRi11JX8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="10.110.147.244/ouaf/cis.jsp" CVScreenId="cf0c49f3-9704-4841-b5b2-c3dfab32d203" CvElementArea="265, 459, 201, 31" CvType="InputBox" DesignTimeRectangle="268, 462, 198, 28" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ACCT_ID' type='text' class='uiMargin data search dc-CHAR-NONE-10-0' tag='INPUT' aaname='Account ID' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ce2b30cc-d4b5-446b-94c6-722cd9afb784" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Control Central' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cf0c49f3-9704-4841-b5b2-c3dfab32d203" CvTextArea="51, 468, 84, 15" CvTextArgument="Account ID" CvType="Text" DesignTimeRectangle="53, 468, 92, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='row1_ALT1' type='' class='' tag='LABEL' aaname='Account ID' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Account ID' /&gt;" Guid="104b3ce0-94cd-479b-adc8-67a23f7df680" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cd999f894c7076eaa39b2c79bef6799e.png" xmlns="">0bvxNzHMJzEKKYvgl8YSWQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
